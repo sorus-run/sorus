@@ -1,1 +1,1 @@
-Sorus: fast CI for Rust. Releases and install instructions will appear here.
+Sorus: fast, efficient CI for Rust. Releases and install instructions will appear here.
